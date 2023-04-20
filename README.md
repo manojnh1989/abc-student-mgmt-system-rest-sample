@@ -15,8 +15,7 @@
 
 ### How to run ??
 
-* Checkout the code using command ```git clone -b master https://github.com/manojnh1989/
-abc-student-mgmt-system-rest-sample.git```
+* Checkout the code using command ```git clone -b master https://github.com/manojnh1989/abc-student-mgmt-system-rest-sample.git```
 * Switch to code directory ```cd promotion-engine```
 * Run ```mvn clean install```.
 * Run ```mvn spring-boot:run```.
