@@ -13,7 +13,7 @@
 * Install Maven using [Maven Installation Guide](https://community.chocolatey.org/packages/maven)
 * Install TortoiseGit using [TortoiseGit Installation Guide](https://community.chocolatey.org/packages/tortoisegit)
 
-### How to run ??
+## How to run ??
 
 * Checkout the code using command ```git clone -b master https://github.com/manojnh1989/abc-student-mgmt-system-rest-sample.git```
 * Switch to code directory ```cd promotion-engine```
