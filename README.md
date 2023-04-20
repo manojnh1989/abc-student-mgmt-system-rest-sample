@@ -2,10 +2,7 @@
 
 ## Software Pre-requisities
 * Chocolatey (Package Manager for Windows)
-* Intellij Community (IDE) 
-```diff 
-- Pre-Installed
-```
+* Intellij Community (IDE) ```diff - Pre-Installed```
 * Maven (Build tool) 
 * JDK ```- Pre-Installed```
 * GitBash ```- Pre-Installed```
