@@ -15,9 +15,9 @@
 
 ## How to run ??
 
-* Checkout the code using command ```git clone -b master https://github.com/manojnh1989/abc-student-mgmt-system-rest-sample.git```
-* Switch to code directory ```cd promotion-engine```
+* Checkout the code using command ```git clone -b master https://github.com/manojnh1989/abc-student-mgmt-system-rest-sample.git student-mgmt-system```
+* Switch to code directory ```cd ```
 * Run ```mvn clean install```.
 * Run ```mvn spring-boot:run```.
-* Open link [Swagger](http://localhost:8080/student-mgmt-service/swagger-ui.html#!)
+* Open link [Swagger](http://localhost:8080/student-mgmt-system/swagger-ui.html#!)
 
