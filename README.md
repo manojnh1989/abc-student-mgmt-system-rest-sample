@@ -2,10 +2,10 @@
 
 ## Software Pre-requisities
 * Chocolatey (Package Manager for Windows)
-* Intellij Community (IDE) <span style="color:green">Pre-Installed</span>
+* Intellij Community (IDE) ```- Pre-Installed</span>
 * Maven (Build tool) 
-* JDK <span style="color:green">Pre-Installed</span>
-* GitBash <span style="color:green">Pre-Installed</span>
+* JDK ```- Pre-Installed</span>
+* GitBash ```- Pre-Installed</span>
 * TortoiseGit 
 
 ## How to setup development environment
