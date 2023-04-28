@@ -1,0 +1,23 @@
+server:
+  servlet:
+    context-path: /student-mgmt-system
+
+spring:
+  profiles:
+    active: local
+  h2:
+    console.enabled: true
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+logging:
+  level:
+    com:
+      example:
+        studentmgmtsystem: TRACE
